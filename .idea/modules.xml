@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewItemDecorationHelper.iml" filepath="$PROJECT_DIR$/RecyclerViewItemDecorationHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialdesiginmdemo/materialdesiginmdemo.iml" filepath="$PROJECT_DIR$/materialdesiginmdemo/materialdesiginmdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewitemdecoration/recyclerviewitemdecoration.iml" filepath="$PROJECT_DIR$/recyclerviewitemdecoration/recyclerviewitemdecoration.iml" />
+    </modules>
+  </component>
+</project>
