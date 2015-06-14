@@ -107,5 +107,12 @@ public class ItemDecoration extends RecyclerView.ItemDecoration {
         //One is Adapter.notifyItemRemoved(index-1),the another is adding a footer to the adapter because a footer
         // usually not been gone.
         outRect.top = mSpace;
+        
+        //for your custom
+        coverOutRect(outRect,view,parent,state);
     }
+    
+    protected void coverOutRect(Rect outRect, View view, RecyclerView parent, RecyclerView.State state){
+		
+	}
 }
