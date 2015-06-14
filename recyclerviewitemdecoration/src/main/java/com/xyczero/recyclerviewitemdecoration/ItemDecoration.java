@@ -72,5 +72,12 @@ public class ItemDecoration extends RecyclerView.ItemDecoration {
             outRect.top = mSpace;
         }
         outRect.bottom = mSpace;
+        
+        //for your custom
+        coverOutRect(outRect,view,parent,state);
     }
+    
+    protected void coverOutRect(Rect outRect, View view, RecyclerView parent, RecyclerView.State state){
+		
+	}
 }
